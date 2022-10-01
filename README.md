@@ -22,3 +22,7 @@ If you find yourself stuck in the list view, SHIFT + G to jump the end of the li
 11)SSH Keys
 SSH Keys are unique keys with which you can connect to github without any user name or personal access token at each visit.
 12) git push -u origin master -> To finally push the files to the github repo
+13)git remote add origin (link of repo from github)
+14) git remote -v -> To check if it is linked to any repo or not 
+15) Fork to get another person repo into your repo
+
