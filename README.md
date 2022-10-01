@@ -19,3 +19,8 @@ git commit -am "Placeholder" -m "Description"-> To commit and add the changes ma
 
 8) git clone sshlink -> this will clone the repository into your folder 
 9) git log -> to view the commits history for the repository
+10) git help --all -> to get help for the command 
+If you find yourself stuck in the list view, SHIFT + G to jump the end of the list, then q to exit the view.
+11)SSH Keys
+SSH Keys are unique keys with which you can connect to github without any user name or personal access token at each visit.
+12) git push -u origin master -> To finally push the files to the github repo
