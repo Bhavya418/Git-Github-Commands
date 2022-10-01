@@ -28,5 +28,7 @@ If you find yourself stuck in the list view, SHIFT + G to jump the end of the li
 16) git branch -> to get list of all the branches
 17) git checkout -b newbranch -> to create a new branch and switch between branches
 18) git diff branchname-> to check difference between both the branches
+19) git branch -d branchname -> to delete the branch 
+20) git pull in main branch -> to get all the pr which were merged into your local machine Pull is series of two steps fetching and merging 
 
 
