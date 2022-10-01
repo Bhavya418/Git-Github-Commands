@@ -25,4 +25,6 @@ SSH Keys are unique keys with which you can connect to github without any user n
 13)git remote add origin (link of repo from github)
 14) git remote -v -> To check if it is linked to any repo or not 
 15) Fork to get another person repo into your repo
+16)git branch -> to get list of all the branches
+17) git checkout -b newbranch -> to create a new branch and switch between branches
 
